@@ -24,7 +24,7 @@ ENV RAILS_ENV="production" \
     BUNDLE_DEPLOYMENT="1" \
     BUNDLE_PATH="/usr/local/bundle" \
     BUNDLE_WITHOUT="development" \
-    PATH="/rails/bin:$PATH"
+    PATH="/rails_web_app/bin:$PATH"
 
 # Throw-away build stage to reduce size of final image
 FROM base AS build
