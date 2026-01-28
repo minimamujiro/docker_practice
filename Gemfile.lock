@@ -177,7 +177,8 @@ GEM
     matrix (0.4.3)
     method_source (1.1.0)
     mini_mime (1.1.5)
-    minitest (5.18.0)
+    minitest (6.0.1)
+      prism (~> 1.5)
     minitest-reporters (1.6.0)
       ansi
       builder
@@ -403,7 +404,7 @@ DEPENDENCIES
   guard-minitest (= 2.4.6)
   importmap-rails
   kamal
-  minitest (= 5.18.0)
+  minitest (= 6.0.1)
   minitest-reporters (= 1.6.0)
   pg (~> 1.1)
   propshaft
