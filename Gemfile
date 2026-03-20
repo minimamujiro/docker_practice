@@ -39,7 +39,7 @@ gem "thruster", require: false
 # gem "image_processing", "~> 1.2"
 gem 'bootstrap', '~> 5.3', '>= 5.3.8'
 gem 'dartsass-rails', '~> 0.5.1'
-gem 'mini_racer', '~> 0.19.2'
+gem 'mini_racer', '~> 0.20.0'
 gem 'faker', '~> 3.6', '>= 3.6.1'
 gem "will_paginate"
 gem "bootstrap-will_paginate", "1.0.0"
