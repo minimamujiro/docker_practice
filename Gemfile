@@ -40,6 +40,10 @@ gem "thruster", require: false
 gem 'bootstrap', '~> 5.3', '>= 5.3.8'
 gem 'dartsass-rails', '~> 0.5.1'
 gem 'mini_racer', '~> 0.19.2'
+gem 'faker', '~> 3.6', '>= 3.6.1'
+gem "will_paginate"
+gem "bootstrap-will_paginate", "1.0.0"
+gem 'will_paginate-bootstrap-style', '~> 0.3.0'
 
 
 group :development, :test do
